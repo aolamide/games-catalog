@@ -1,0 +1,13 @@
+.flex {
+  display : flex;
+}
+.flex-between {
+  justify-content: space-between;
+}
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  min-height: 40vh;
+}
