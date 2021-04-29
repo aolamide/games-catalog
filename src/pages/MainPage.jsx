@@ -44,6 +44,7 @@ const MainPage = () => {
         }
       </div>
       <div>
+        <p><a href="https://github.com/aolamide/games-catalog/" target="_blank">GitHub repo</a></p>
         <p>Built with &hearts; by Olamide</p>
       </div>
     </div>
